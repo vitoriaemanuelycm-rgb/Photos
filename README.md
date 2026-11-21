@@ -15,4 +15,4 @@ Mostrar um pouco da arte da autora, sua maneira de enxergar o mundo e de se expr
 Foram utilizadas as linguagens e ferramentas HTML, CSS e JavaScript. O HTML foi responsável pela estruturação e organização do conteúdo da página; o CSS, pela estilização e aparência visual do site; e o JavaScript, pela implementação de funcionalidades e interações com o usuário.
 O conteúdo apresentado é, em sua maior parte, de autoria própria, incluindo os poemas e as fotografias, que dão vida ao site da autora. Já as informações sobre a história da fotografia e os tipos de fotografia existentes foram pesquisadas na internet.
 
-O conteúdo apresentado é, em sua maior parte, de autoria própria, incluindo os poemas e as fotografias, que dão vida às imagens presentes nas criações literárias da autora. Já as informações sobre a história da fotografia e os tipos de fotografia existentes foram pesquisadas na internet.
+
